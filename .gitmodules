@@ -1,3 +1,4 @@
 [submodule "ClassLibrary1"]
 	path = ClassLibrary1
 	url = https://github.com/nikolasNineko/ClassLibrary1
+	branch = second
